@@ -60,7 +60,7 @@ Certifique-se de ter o Python instalado na sua máquina.
 
 1. **Clonar o repositório:**
 ```bash
-git clone https://github.com/SEU_USUARIO/deteccao-anomalias-transacoes.git
+git clone https://github.com/MrLeandro357/deteccao-anomalias-transacoes.git
 cd deteccao-anomalias-transacoes
 ```
 
@@ -109,8 +109,10 @@ O modelo gera um relatório de classificação detalhado e uma matriz de confus�
 
 ---
 
+---
+
 ## 👨‍💻 Autor
 
-Desenvolvido como projeto prático do **Bootcamp Bradesco - GenAI, Dados & Cyber** em parceria com a **DIO**.
+Desenvolvido por **[Leandro Rodrigues da Silva](https://github.com/MrLeandro357)** no âmbito do **Bootcamp Bradesco - GenAI, Dados & Cyber** em parceria com a **DIO**.
 
 ---

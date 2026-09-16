@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Dataset baixado localmente
+dataset/*.csv
+!.gitkeep
+
+# Arquivos de configurações do VS Code / IDEs
+.vscode/
+.idea/
